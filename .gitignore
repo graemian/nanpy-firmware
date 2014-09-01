@@ -26,3 +26,11 @@ Nanpy/libraries
 .*
 #                        ...except:
 !.gitignore
+
+graeme-nanpy.xcodeproj/project.xcworkspace/xcuserdata/graemepyle.xcuserdatad/UserInterfaceState.xcuserstate
+
+graeme-nanpy.xcodeproj/project.pbxproj
+
+graeme-nanpy.xcodeproj/project.xcworkspace/contents.xcworkspacedata
+
+graeme-nanpy.xcodeproj/project.xcworkspace/xcshareddata/graeme-nanpy.xccheckout
