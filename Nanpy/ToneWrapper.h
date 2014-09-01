@@ -18,7 +18,7 @@ class ToneWrapper {
     
     public:
 
-        ToneWrapper(int pin) : pin(pin), noteCount(0) {}
+        ToneWrapper(int pin) : pin(pin) {}
     void play(int note, int duration);
     void playRTTTL(int songIndex);
     void testRTTTL();
